@@ -15,3 +15,6 @@ Ten skrypt wymaga uprawnień administratora, aby działać.
 Używaj tego kodu odpowiedzialnie i za zgodą użytkownika.
 Pamiętaj, że klawiatury mogą być używane do celów nieuczciwych, takich jak podsłuchiwanie użytkowników lub kradzież poufnych informacji. Zawsze używaj tego kodu etycznie i z ostrożnością.
 
+
+NIE PONOSZE ODPOWIEDZIALNOŚĆI ZA UKRADZIONE DANE
+
